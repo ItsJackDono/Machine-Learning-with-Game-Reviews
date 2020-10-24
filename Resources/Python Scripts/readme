@@ -1,1 +1,10 @@
+This folder contains the machine learning algorithms developed in python 3. Each script can be exacuted without neededing an antecedent file and can be used in any python 3 supported IDE. 
+
+There are necessary librarys needed to be imported before each python scripts can be exacuted, below are the required librarys:
+
+mlxtend,
+sklearn,
+numpy,
+pandas,
+metaplotlib.
 
